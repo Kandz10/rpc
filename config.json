@@ -1,0 +1,35 @@
+{
+    "status": "idle",
+
+    "settings": {
+        "game": {
+            "name": "Apex Legends",
+            "applicationID": "957716304427618474",
+            "state": " ",
+            "details": " ",
+            "largeImageKey": "large",
+            "largeImageText": "apex",
+            "startTimestamp": "",
+            "endTimestamp": ""
+        },
+        "twitch": {
+            "name": "st ",
+            "applicationID": "957716304427618474",
+            "url": "https://twitch.tv/btssmash",
+            "state": "First line",
+            "details": "",
+            "largeImageKey": "large",
+            "largeImageText": "",
+            "startTimestamp": "",
+            "endTimestamp": ""
+        },
+        "spotify": {
+            "name": "Chill lofi",
+            "details": "x",
+            "largeImageKey": "spotify:ab67706c0000bebb9816716b4f43767708de1db8",
+            "largeImageText": "a",
+            "startTimestamp": 929927100172,
+            "endTimestamp": 8282827288228
+        }
+    }
+}
